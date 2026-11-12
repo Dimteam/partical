@@ -38,3 +38,13 @@ table {
           box-sizing: border-box;
 }
 
+html, body {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+body {
+  background: #000010;
+  font-family: 'Montserrat', sans-serif;
+  color: #fff;
